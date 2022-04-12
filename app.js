@@ -1,2 +1,6 @@
+var message = 'Hello Node!';
 
-console.log("hello node!")
+var sum = 5 + 3;
+
+console.log(message);
+console.log(sum);
